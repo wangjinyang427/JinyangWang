@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://img.shields.io/badge/Status-Keep%20Learning-brightgreen?style=for-the-badge&logo=gitbook&logoColor=white" />
 </p>
 
 <p align="center">
