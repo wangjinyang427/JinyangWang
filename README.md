@@ -7,7 +7,7 @@
 ### 💫 About Me
 
 - 🎓 **Graduate Student**: 1st-year Master's student at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**.
-- 🔍 **Research Interests**: Deeply invested in **3D Reconstruction**, **World Models**, and **Real-time Interaction**.
+- 🔍 **Research Interests**: Deeply invested in **3D Reconstruction**, **World Models**, and **Real-time Interaction**，now is learning **World Action Model**.
 - 🏎️ **Industry Experience**: Currently working as an **Algorithm Intern** at **Changan Auto**, focusing on cutting-edge automotive AI.
 - 📈 **Growth Mindset**: Constantly evolving, learning new paradigms, and pushing the boundaries of what's possible in Computer Vision and Robotics.
 
